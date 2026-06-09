@@ -9,10 +9,9 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+**Course and Professor Reviews: Crowdsourced Insights on Teaching Quality and Course Structure**
+
+This system aggregates student experiences with specific professors and courses to help future students make informed enrollment decisions. While official university course catalogs list requirements and credits, they rarely capture teaching style, workload expectations, grading fairness, or real student outcomes. This knowledge is scattered across Rate My Professors, subreddit discussions, forum threads, and student reviews—making it difficult for students to find comprehensive, recent perspectives without manually visiting multiple platforms. Our Unofficial Guide brings this wisdom together in one searchable, AI-powered interface.
 
 ---
 
@@ -24,16 +23,18 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Rate My Professors - Computer Science | Web (Reviews) | https://www.ratemyprofessors.com/search/teachers?query=computer+science |
+| 2 | Reddit r/professors | Web (Forum/Discussion) | https://www.reddit.com/r/professors/ |
+| 3 | Reddit r/learnprogramming - Course Recommendations | Web (Forum/Discussion) | https://www.reddit.com/r/learnprogramming/ |
+| 4 | Course Evaluations Database | Web (Aggregated Reviews) | https://www.courseevaluations.org/ |
+| 5 | Rate My Professors - Mathematics | Web (Reviews) | https://www.ratemyprofessors.com/search/teachers?query=mathematics |
+| 6 | Reddit r/csMajors - Course/Professor Threads | Web (Forum/Discussion) | https://www.reddit.com/r/csMajors/ |
+| 7 | Rate My Professors - Business/Economics | Web (Reviews) | https://www.ratemyprofessors.com/search/teachers?query=business |
+| 8 | Glassdoor University Teaching Quality Reviews | Web (Alumni Reviews) | https://www.glassdoor.com/Reviews/Companies/Education-c1_c100.htm |
+| 9 | Reddit r/university - General Course/Professor Posts | Web (Forum/Discussion) | https://www.reddit.com/r/university/ |
+| 10 | Rate My Professors - Biology/STEM | Web (Reviews) | https://www.ratemyprofessors.com/search/teachers?query=biology |
+| 11 | Stack Overflow - Learning Resource Recommendations | Web (Community Forum) | https://stackoverflow.com/questions/tagged/learning-resources |
+| 12 | The Student Room - Academic Discussion Forum | Web (Forum/Discussion) | https://www.thestudentroom.co.uk/ |
 
 ---
 
