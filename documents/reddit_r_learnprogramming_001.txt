@@ -1,0 +1,25 @@
+Reddit: r/learnprogramming - Best Professors for Learning Python
+Posted by: aspiring_dev | 2.1k upvotes
+
+Thread: "I want to learn programming. Should I look for a professor or use online courses?"
+
+Top comment by: coding_mentor (1.2k upvotes):
+"It depends on your learning style. I went the professor route and here's what I found:
+- Best professors explain the 'why', not just the 'how'
+- They force you to write code instead of copy-pasting tutorials
+- They give real feedback on your code (not just 'correct' or 'wrong')
+- They're accessible—you can ask random questions in office hours
+
+Bad professors just read slides and don't engage. I had one who said 'let me Google this' 
+during office hours. Don't take a class with someone who isn't passionate about teaching.
+
+Key warning: Big intro classes (200+ students) are hit or miss. You need a professor who 
+actually uses active learning, not lectures to a dark auditorium.
+
+Specific recommendation: Look for professors who maintain GitHub repos, write their own 
+assignments, and respond quickly to emails. Those are signs they actually care about teaching."
+
+Replies:
+- "This. I learned more from a bad online course than a bad professor." (850 likes)
+- "How do you find which professors are good before registering?" 
+  - Response: "RateMyProfessors has reviews. Also ask in your university subreddit." (420 likes)

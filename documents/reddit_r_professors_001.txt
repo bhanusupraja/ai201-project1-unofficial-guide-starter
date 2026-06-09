@@ -1,0 +1,16 @@
+Reddit Discussion: r/professors - Teaching CS with Limited Resources
+Posted by: comp_sci_ta | 47 upvotes
+
+I just finished my first semester teaching CS to intro students and it was tough. Here's what 
+I learned: 1) Don't assume students have touched a computer before - some literally haven't. 
+2) Pair programming in labs helps shy students engage. 3) Real projects beat textbook exercises 
+every time. 4) Office hours are where you actually fix misconceptions. I had 15 students 
+regularly, not counting ones who showed up once. The grading workload is insane - 100+ 
+submissions per assignment. Solution: I built a rubric template that speeds things up. 
+Also, students appreciate when you explain why concepts matter. Telling them "you'll need 
+this for interviews" motivates way more than "it's on the exam." Anyone else struggle with 
+time management in their first year?
+
+Comments:
+- "Office hours changed my teaching. I now hold 4 hours per week." (23 likes)
+- "Real projects absolutely. My pass rate went up 20% when I switched from problem sets." (18 likes)

@@ -1,0 +1,31 @@
+Anonymous Course Evaluation - Introduction to Algorithms
+Professor: Dr. Michael Park
+Semester: Fall 2024
+Response Rate: 62% (44/71 students)
+
+Q: How clearly did the instructor communicate course content?
+Average: 4.1/5
+Comments: "Very clear lectures with good examples" (15 mentions)
+          "Sometimes moved too fast" (8 mentions)
+          "Used whiteboard well for complex topics" (12 mentions)
+
+Q: How much did you learn in this course?
+Average: 4.4/5
+Comments: "Definitely prepared for technical interviews" (18 mentions)
+          "Challenging but fair" (10 mentions)
+          "Would have liked more implementation details" (6 mentions)
+
+Q: How fairly were you graded?
+Average: 3.9/5
+Comments: "Grading rubric could be clearer" (12 mentions)
+          "Generous with partial credit" (8 mentions)
+          "Some assignment expectations were vague" (5 mentions)
+
+Q: How would you rate this professor's accessibility?
+Average: 4.2/5
+Comments: "Office hours very helpful, open twice weekly" (14 mentions)
+          "Responds to emails within 24 hours" (9 mentions)
+          "Could offer more one-on-one help" (3 mentions)
+
+Overall Rating: 4.2/5
+Would Recommend: 91% (40/44 responses)

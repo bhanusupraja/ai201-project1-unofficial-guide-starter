@@ -1,0 +1,46 @@
+{
+  "pipeline_stats": {
+    "total_documents_loaded": 5,
+    "documents_cleaned": 5,
+    "total_chunks": 5,
+    "avg_tokens_per_chunk": 244.8,
+    "quality_score_percent": 100.0
+  },
+  "chunking_spec": {
+    "chunk_size_tokens_target": "300-400",
+    "overlap_tokens": 50,
+    "strategy": "RecursiveCharacterTextSplitter with sentence boundaries"
+  },
+  "sample_chunks": [
+    {
+      "chunk_id": "rate_my_professors_math_001.txt_chunk_000",
+      "tokens": 204,
+      "words": 142,
+      "preview": "Professor James Rodriguez - Calculus II\nRating: 3.8/5 - Clarity: 3 - Difficulty: 5 - Helpfulness: 4\n..."
+    },
+    {
+      "chunk_id": "course_evaluations_001.txt_chunk_000",
+      "tokens": 288,
+      "words": 157,
+      "preview": "Anonymous Course Evaluation - Introduction to Algorithms\nProfessor: Dr. Michael Park\nSemester: Fall ..."
+    },
+    {
+      "chunk_id": "reddit_r_professors_001.txt_chunk_000",
+      "tokens": 244,
+      "words": 173,
+      "preview": "Reddit Discussion: r/professors - Teaching CS with Limited Resources\nPosted by: comp_sci_ta | 47 upv..."
+    },
+    {
+      "chunk_id": "rate_my_professors_cs_001.txt_chunk_000",
+      "tokens": 180,
+      "words": 127,
+      "preview": "Professor Sarah Chen - Computer Science 101\nRating: 4.5/5 - Clarity: 5 - Difficulty: 4 - Helpfulness..."
+    },
+    {
+      "chunk_id": "reddit_r_learnprogramming_001.txt_chunk_000",
+      "tokens": 308,
+      "words": 220,
+      "preview": "Reddit: r/learnprogramming - Best Professors for Learning Python\nPosted by: aspiring_dev | 2.1k upvo..."
+    }
+  ]
+}

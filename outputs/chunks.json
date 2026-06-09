@@ -1,0 +1,62 @@
+[
+  {
+    "chunk_id": "course_evaluations_001.txt_chunk_000",
+    "text": "Anonymous Course Evaluation - Introduction to Algorithms\nProfessor: Dr. Michael Park\nSemester: Fall 2024\nResponse Rate: 62% (44/71 students)\n\nQ: How clearly did the instructor communicate course content?\nAverage: 4.1/5\nComments: \"Very clear lectures with good examples\" (15 mentions)\n \"Sometimes moved too fast\" (8 mentions)\n \"Used whiteboard well for complex topics\" (12 mentions)\n\nQ: How much did you learn in this course?\nAverage: 4.4/5\nComments: \"Definitely prepared for technical interviews\" (18 mentions)\n \"Challenging but fair\" (10 mentions)\n \"Would have liked more implementation details\" (6 mentions)\n\nQ: How fairly were you graded?\nAverage: 3.9/5\nComments: \"Grading rubric could be clearer\" (12 mentions)\n \"Generous with partial credit\" (8 mentions)\n \"Some assignment expectations were vague\" (5 mentions)\n\nQ: How would you rate this professor's accessibility?\nAverage: 4.2/5\nComments: \"Office hours very helpful, open twice weekly\" (14 mentions)\n \"Responds to emails within 24 hours\" (9 mentions)\n \"Could offer more one-on-one help\" (3 mentions)\n\nOverall Rating: 4.2/5\nWould Recommend: 91% (40/44 responses)",
+    "token_count": 288,
+    "char_count": 1118,
+    "metadata": {
+      "source": "course_evaluations_001.txt",
+      "source_type": "local_file",
+      "file_path": "documents\\course_evaluations_001.txt"
+    },
+    "sequence": 0
+  },
+  {
+    "chunk_id": "rate_my_professors_cs_001.txt_chunk_000",
+    "text": "Professor Sarah Chen - Computer Science 101\nRating: 4.5/5 - Clarity: 5 - Difficulty: 4 - Helpfulness: 5\nSource: Rate My Professors\n\nDr. Chen is an exceptional professor who makes computer science concepts incredibly clear.\nHer lectures are well-structured and she uses plenty of real-world examples to illustrate\nabstract ideas. Expect 8-12 hours of homework per week, mostly coding assignments and reading.\nThe assignments are challenging but doable if you start early. Office hours are always open\nand she's responsive to emails. Exams are fair and reflect what was taught in class. Her\ngrading is generous with partial credit. I'd recommend taking her class—you'll actually\nunderstand the material instead of just memorizing it. The class size is about 60 students\nbut she still manages to be personable.",
+    "token_count": 180,
+    "char_count": 807,
+    "metadata": {
+      "source": "rate_my_professors_cs_001.txt",
+      "source_type": "local_file",
+      "file_path": "documents\\rate_my_professors_cs_001.txt"
+    },
+    "sequence": 0
+  },
+  {
+    "chunk_id": "rate_my_professors_math_001.txt_chunk_000",
+    "text": "Professor James Rodriguez - Calculus II\nRating: 3.8/5 - Clarity: 3 - Difficulty: 5 - Helpfulness: 4\nSource: Rate My Professors\n\nDr. Rodriguez is a tough but fair instructor. His lectures move quickly and assume you\nknow single-variable calculus inside and out. If you're struggling, go to office hours\nearly—he becomes much warmer one-on-one than in class. The exams are hard and often\ninclude problems he's never shown in class, so you need to understand the fundamentals,\nnot just the procedures. Homework is brutal (2-3 hours per assignment, 2x weekly). Grading\nis harsh—he takes points off for every small mistake. That said, this class actually prepared\nme for upper-level math better than any other. If you want an easy A, take someone else.\nIf you want to actually learn Calculus, he's your guy. Study group saved my grade. Definitely\nform one early.",
+    "token_count": 204,
+    "char_count": 857,
+    "metadata": {
+      "source": "rate_my_professors_math_001.txt",
+      "source_type": "local_file",
+      "file_path": "documents\\rate_my_professors_math_001.txt"
+    },
+    "sequence": 0
+  },
+  {
+    "chunk_id": "reddit_r_learnprogramming_001.txt_chunk_000",
+    "text": "Reddit: r/learnprogramming - Best Professors for Learning Python\nPosted by: aspiring_dev | 2.1k upvotes\n\nThread: \"I want to learn programming. Should I look for a professor or use online courses?\"\n\nTop comment by: coding_mentor (1.2k upvotes):\n\"It depends on your learning style. I went the professor route and here's what I found:\n- Best professors explain the 'why', not just the 'how'\n- They force you to write code instead of copy-pasting tutorials\n- They give real feedback on your code (not just 'correct' or 'wrong')\n- They're accessible—you can ask random questions in office hours\n\nBad professors just read slides and don't engage. I had one who said 'let me Google this'\nduring office hours. Don't take a class with someone who isn't passionate about teaching.\n\nKey warning: Big intro classes (200+ students) are hit or miss. You need a professor who\nactually uses active learning, not lectures to a dark auditorium.\n\nSpecific recommendation: Look for professors who maintain GitHub repos, write their own\nassignments, and respond quickly to emails. Those are signs they actually care about teaching.\"\n\nReplies:\n- \"This. I learned more from a bad online course than a bad professor.\" (850 likes)\n- \"How do you find which professors are good before registering?\"\n - Response: \"RateMyProfessors has reviews. Also ask in your university subreddit.\" (420 likes)",
+    "token_count": 308,
+    "char_count": 1367,
+    "metadata": {
+      "source": "reddit_r_learnprogramming_001.txt",
+      "source_type": "local_file",
+      "file_path": "documents\\reddit_r_learnprogramming_001.txt"
+    },
+    "sequence": 0
+  },
+  {
+    "chunk_id": "reddit_r_professors_001.txt_chunk_000",
+    "text": "Reddit Discussion: r/professors - Teaching CS with Limited Resources\nPosted by: comp_sci_ta | 47 upvotes\n\nI just finished my first semester teaching CS to intro students and it was tough. Here's what\nI learned: 1) Don't assume students have touched a computer before - some literally haven't.\n2) Pair programming in labs helps shy students engage. 3) Real projects beat textbook exercises\nevery time. 4) Office hours are where you actually fix misconceptions. I had 15 students\nregularly, not counting ones who showed up once. The grading workload is insane - 100+\nsubmissions per assignment. Solution: I built a rubric template that speeds things up.\nAlso, students appreciate when you explain why concepts matter. Telling them \"you'll need\nthis for interviews\" motivates way more than \"it's on the exam.\" Anyone else struggle with\ntime management in their first year?\n\nComments:\n- \"Office hours changed my teaching. I now hold 4 hours per week.\" (23 likes)\n- \"Real projects absolutely. My pass rate went up 20% when I switched from problem sets.\" (18 likes)",
+    "token_count": 244,
+    "char_count": 1059,
+    "metadata": {
+      "source": "reddit_r_professors_001.txt",
+      "source_type": "local_file",
+      "file_path": "documents\\reddit_r_professors_001.txt"
+    },
+    "sequence": 0
+  }
+]
