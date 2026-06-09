@@ -1,0 +1,32 @@
+{
+  "milestone": "4 & 5",
+  "total_chunks": 5,
+  "questions_tested": 5,
+  "results": [
+    {
+      "question": "What do students say about the workload in introductory computer science courses?",
+      "response_preview": "Based on student reviews, introductory computer science courses typically have significant workload. Students commonly mention 8-12 hours of homework per week, consisting mainly of coding assignments ...",
+      "sources_used": 5
+    },
+    {
+      "question": "Which teaching styles help students understand difficult material best?",
+      "response_preview": "Effective teaching styles mentioned across reviews include: clear lectures with real-world examples, interactive learning, accessible office hours, and using visual aids like whiteboards. The most hig...",
+      "sources_used": 5
+    },
+    {
+      "question": "What are common complaints about exam difficulty and grading fairness?",
+      "response_preview": "Students report varied experiences with exam difficulty and grading. Common concerns include harsh grading curves, unexpected exam problems that weren't directly covered in class, and inconsistent par...",
+      "sources_used": 5
+    },
+    {
+      "question": "How do students rate professors who are approachable versus those who are difficult to reach?",
+      "response_preview": "Students highly value professor accessibility. Positive reviews mention: regular and flexible office hours, prompt email responses, willingness to explain concepts one-on-one, and a warm demeanor in i...",
+      "sources_used": 5
+    },
+    {
+      "question": "What factors make a course review-worthy (positive or negative)?",
+      "response_preview": "Based on the collected reviews: [From rate_my_professors_cs_001.txt]:\nProfessor Sarah Chen - Computer Science 101\nRating: 4.5/5 - Clarity: 5 - Difficulty: 4 - Helpfulness: 5\nSource: Rate My Professors...",
+      "sources_used": 5
+    }
+  ]
+}
