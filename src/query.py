@@ -39,7 +39,7 @@ class QueryOrchestrator:
         self.chunks = self._load_chunks()
         
         # Initialize retriever (mock version for demo)
-        from generation import MockRetriever, ResponseGenerator
+        from src.generation import MockRetriever, ResponseGenerator
         self.retriever = MockRetriever(self.chunks)
         
         # Initialize generator
