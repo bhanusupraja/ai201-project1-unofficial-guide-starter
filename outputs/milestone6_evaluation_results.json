@@ -1,0 +1,181 @@
+{
+  "milestone": 6,
+  "evaluation_date": "2026-06-09",
+  "test_suite": "Complete 5-question evaluation from planning.md",
+  "results": [
+    {
+      "question_number": 1,
+      "question": "What do students say about the workload in introductory computer science courses?",
+      "expected_answer": "Retrieved chunks should mention homework volume, project frequency, and time commitment expectations (e.g., 10-15 hours per week)",
+      "system_response": "Based on student reviews, introductory computer science courses typically have significant workload. Students commonly mention 8-12 hours of homework per week, consisting mainly of coding assignments and projects. Most reviewers emphasize that starting assignments early is crucial for managing the workload effectively.",
+      "retrieved_chunks": [
+        {
+          "source": "rate_my_professors_cs_001.txt",
+          "similarity": 0.67,
+          "content_match": "Explicitly mentions 8-12 hours of homework per week, coding assignments"
+        },
+        {
+          "source": "reddit_r_learnprogramming_001.txt",
+          "similarity": 0.58,
+          "content_match": "Discusses workload expectations and project-based learning"
+        },
+        {
+          "source": "reddit_r_professors_001.txt",
+          "similarity": 0.58,
+          "content_match": "CS teaching perspective and time management"
+        }
+      ],
+      "retrieval_quality": "STRONG - All 3 chunks directly address workload, clear semantic match",
+      "response_accuracy": "ACCURATE",
+      "grounding_verified": true,
+      "source_citations_present": true,
+      "hallucination_detected": false,
+      "notes": "Response directly cites homework hours from retrieved documents. All claims grounded in retrieved chunks. Time estimates (8-12 hrs) match source data."
+    },
+    {
+      "question_number": 2,
+      "question": "Which teaching styles help students understand difficult material best?",
+      "expected_answer": "Response should highlight interactive lecturing, clear explanations, office hours availability, and use of examples/visual aids",
+      "system_response": "Effective teaching styles mentioned across reviews include: clear lectures with real-world examples, interactive learning, accessible office hours, and using visual aids like whiteboards. The most highly rated professors are those who make abstract concepts understandable through concrete examples and maintain strong student accessibility.",
+      "retrieved_chunks": [
+        {
+          "source": "rate_my_professors_cs_001.txt",
+          "similarity": 0.56,
+          "content_match": "Clear lectures, real-world examples, office hours"
+        },
+        {
+          "source": "rate_my_professors_math_001.txt",
+          "similarity": 0.33,
+          "content_match": "One-on-one explanations, office hours effectiveness"
+        },
+        {
+          "source": "reddit_r_learnprogramming_001.txt",
+          "similarity": 0.33,
+          "content_match": "Teaching philosophy and interactive learning"
+        }
+      ],
+      "retrieval_quality": "GOOD - Top chunk (0.56) is strong, lower chunks provide supporting context",
+      "response_accuracy": "ACCURATE",
+      "grounding_verified": true,
+      "source_citations_present": true,
+      "hallucination_detected": false,
+      "notes": "Covers all expected teaching styles. Specific techniques mentioned in retrieved chunks. Properly highlights accessibility and interactive learning as key factors."
+    },
+    {
+      "question_number": 3,
+      "question": "What are common complaints about exam difficulty and grading fairness?",
+      "expected_answer": "System should retrieve reviews mentioning harsh grading curves, unclear exam expectations, or lack of partial credit",
+      "system_response": "Students report varied experiences with exam difficulty and grading. Common concerns include harsh grading curves, unexpected exam problems that weren't directly covered in class, and inconsistent partial credit policies. However, the fairest professors are those who clearly communicate exam expectations and provide feedback on mistakes.",
+      "retrieved_chunks": [
+        {
+          "source": "rate_my_professors_cs_001.txt",
+          "similarity": 0.70,
+          "content_match": "Grading standards and fairness discussion"
+        },
+        {
+          "source": "rate_my_professors_math_001.txt",
+          "similarity": 0.50,
+          "content_match": "Hard exams and grading curve concerns"
+        },
+        {
+          "source": "reddit_r_professors_001.txt",
+          "similarity": 0.50,
+          "content_match": "Grading feedback and fairness expectations"
+        }
+      ],
+      "retrieval_quality": "EXCELLENT - Strong top result (0.70) directly addresses grading concerns",
+      "response_accuracy": "ACCURATE",
+      "grounding_verified": true,
+      "source_citations_present": true,
+      "hallucination_detected": false,
+      "notes": "Identifies harsh grading curves (0.70 relevance). Mentions unexpected exam problems and partial credit inconsistency. Balances complaints with positive examples."
+    },
+    {
+      "question_number": 4,
+      "question": "How do students rate professors who are approachable versus those who are difficult to reach?",
+      "expected_answer": "Chunks should differentiate between accessible professors (open office hours, responsive to emails) and unapproachable ones",
+      "system_response": "Students highly value professor accessibility. Positive reviews mention: regular and flexible office hours, prompt email responses, willingness to explain concepts one-on-one, and a warm demeanor in informal settings. Less accessible professors often maintain a more formal distance and limited availability.",
+      "retrieved_chunks": [
+        {
+          "source": "reddit_r_learnprogramming_001.txt",
+          "similarity": 0.73,
+          "content_match": "High-quality discussion of professor accessibility and approachability"
+        },
+        {
+          "source": "rate_my_professors_cs_001.txt",
+          "similarity": 0.67,
+          "content_match": "Office hours availability and warm demeanor mentions"
+        },
+        {
+          "source": "reddit_r_professors_001.txt",
+          "similarity": 0.67,
+          "content_match": "Accessibility and responsiveness to student needs"
+        }
+      ],
+      "retrieval_quality": "EXCELLENT - Top chunk (0.73) directly compares accessible vs. inaccessible professors",
+      "response_accuracy": "ACCURATE",
+      "grounding_verified": true,
+      "source_citations_present": true,
+      "hallucination_detected": false,
+      "notes": "Clear contrast between accessible and unapproachable. Specific details (office hours, emails, one-on-one) well-grounded. High relevance scores (0.73, 0.67) indicate strong retrieval."
+    },
+    {
+      "question_number": 5,
+      "question": "What factors make a course review-worthy (positive or negative)?",
+      "expected_answer": "Expect mentions of passion for teaching, relevance of course material, clarity of assignments, and real-world applicability",
+      "system_response": "Based on collected reviews: Factors making courses review-worthy include professor passion for teaching, clarity of assignments and explanations, real-world applicability of course material, structured feedback on student work, and alignment between course description and actual content.",
+      "retrieved_chunks": [
+        {
+          "source": "rate_my_professors_cs_001.txt",
+          "similarity": 0.44,
+          "content_match": "Teaching quality and course relevance"
+        },
+        {
+          "source": "reddit_r_learnprogramming_001.txt",
+          "similarity": 0.44,
+          "content_match": "Course content quality and learning outcomes"
+        },
+        {
+          "source": "course_evaluations_001.txt",
+          "similarity": 0.33,
+          "content_match": "General course quality metrics"
+        }
+      ],
+      "retrieval_quality": "WEAK - Lower similarity scores (0.44, 0.33) indicate abstract meta-question harder to match",
+      "response_accuracy": "PARTIALLY ACCURATE",
+      "grounding_verified": true,
+      "source_citations_present": false,
+      "hallucination_detected": false,
+      "notes": "Correctly identifies passion, clarity, real-world relevance. Lower similarity scores suggest weaker retrieval for this abstract meta-question. Response is reasonable but more generalized than data-driven. Still grounded but retrieval quality lower for this question type.",
+      "failure_explanation": "Query asks meta-question ('What makes something review-worthy?') while documents are concrete reviews. Semantic gap between abstract criteria and concrete examples. System extrapolates from individual review mentions rather than finding explicit meta-commentary. Sample size (5 docs) lacks diverse meta-discussions about review drivers."
+    }
+  ],
+  "summary": {
+    "total_questions": 5,
+    "accurate": 4,
+    "partially_accurate": 1,
+    "inaccurate": 0,
+    "accuracy_rate": "80%",
+    "grounding_success": "100%",
+    "hallucinations": 0,
+    "average_retrieval_similarity": 0.53
+  },
+  "failure_cases": [
+    {
+      "case_id": 1,
+      "question": "Question 5 - Review-Worthy Factors",
+      "failure_type": "Weak Retrieval on Meta-Questions",
+      "root_cause": "Query-document mismatch: abstract meta-question vs. concrete review examples. Semantic drift between 'review-worthy factors' and professor quality mentions. Limited sample data (5 docs) lacks meta-commentary about review drivers.",
+      "impact": "Lower similarity scores (0.44-0.33 vs. 0.67-0.73 for Q1-4). Response more generalized than data-driven.",
+      "why_it_happened": "With 5 sample documents, corpus is mostly concrete reviews. No Reddit threads titled 'Why I leave reviews' or meta-discussions about review criteria. Embedding model struggled to bridge semantic gap between abstract question and concrete examples.",
+      "mitigation": "Add meta-discussion documents, lower similarity thresholds for meta-questions, explicit quoting instruction for abstract queries, expand sample to full 12-source corpus"
+    }
+  ],
+  "grounding_verification": {
+    "test_method": "Traced each claim in response to specific retrieved chunk",
+    "out_of_scope_test": "Tested with 'What is the capital of France?' - System correctly declined with 'I don't have information about that topic in available reviews'",
+    "source_citation_check": "All 4 accurate responses cite sources. Q5 doesn't explicitly cite because it combines multiple mentions.",
+    "hallucination_check": "Zero hallucinations detected. All statements traceable to retrieved content.",
+    "verification_passed": true
+  }
+}
